@@ -4,3 +4,9 @@ Link uteis:
 Coisas importantes para lembrar:
 
 <!DOCTYPE html> // No é uma tag html
+
+Semantica
+
+<section></section>  <aside></aside>
+<header></header>    <footer></footer>
+<article></article>  <h1>-<h6>
