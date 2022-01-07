@@ -1,0 +1,6 @@
+Link uteis:
+
+
+Coisas importantes para lembrar:
+
+<!DOCTYPE html> // No é uma tag html
