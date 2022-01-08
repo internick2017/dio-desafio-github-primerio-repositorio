@@ -1,0 +1,19 @@
+body{
+    color: burlywood;
+}
+
+#principal, .subtitle, .titulo-post{
+  color: brown;  
+}
+
+.titulo-post{
+    font-size: 16px;
+    font-style: italic;
+}
+
+.post{
+    padding: 10px;
+color: cornsilk;
+border: 3px solid black;
+margin: 15px;
+}
