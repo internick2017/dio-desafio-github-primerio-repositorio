@@ -1,0 +1,31 @@
+.navbar {
+    background-color: rgb(105, 80, 129) !important;
+    
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar img{
+padding-left: 15px;
+}
+
+#quem-somos{
+    background-color: rgb(50, 50, 71);
+    color: cornsilk;
+}
+.margin{
+  padding: 32cm;
+}
+
+#parceiros{
+background-color: lightcoral;
+}
+
+section img{
+    width: -webkit-fill-available;
+}
+section h4{
+    padding-top: 10px;
+}
